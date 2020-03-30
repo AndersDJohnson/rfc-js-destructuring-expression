@@ -53,4 +53,3 @@ To handle optionality, you could use `= {}` defaults or consider my ["optional d
 
 I could see a runtime version of this using Proxy objects (perhaps something like my [`stub-obj-proxy`](https://github.com/AndersDJohnson/stub-obj-proxy)), perhaps with a Babel plugin to optimize it for production runtime use.
 
-Related: https://github.com/AndersDJohnson/rfc-js-return-destructuring
